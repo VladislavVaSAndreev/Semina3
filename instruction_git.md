@@ -43,3 +43,6 @@
 ***`git branch -d <name branch>`*** -удалить ветку.
 
 ***`git checkout <name branch>`*** -переход на указанную ветку.
+
+![Comand](Comand.jpg)
+
