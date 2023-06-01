@@ -44,6 +44,11 @@
 
 ***`git checkout <name branch>`*** -переход на указанную ветку.
 
+<<<<<<< HEAD
 ***`git merge <name branch>`*** -слияние веток, из указанной в которую находимся.
 
 ***`git log --graph`*** -выводит коммиты в виде дерева.
+=======
+![Comand](Comand.jpg)
+
+>>>>>>> rubberbranch
