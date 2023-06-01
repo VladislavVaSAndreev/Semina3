@@ -43,3 +43,5 @@
 ***`git branch -d <name branch>`*** -удалить ветку.
 
 ***`git checkout <name branch>`*** -переход на указанную ветку.
+
+***`git merge <name branch>`*** -слияние веток, из указанной в которую находимся.
