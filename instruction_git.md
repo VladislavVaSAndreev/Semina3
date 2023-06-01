@@ -41,3 +41,5 @@
 ***`git branch`*** \<name branch> -создание новой ветки и присвоение ей имя.
 
 ***`git branch -d`*** \<name branch> -удалить ветку.
+
+***`git checkout <name branch>`*** -переход на указанную ветку.
