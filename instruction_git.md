@@ -92,7 +92,6 @@
 
 ***`git checkout <name branch>`*** -переход на указанную ветку.
 
-![Comand](Comand.jpg)
-
-
 ***`git log --graph`*** -выводит коммиты в виде дерева.
+
+![Comand](Comand.jpg)
